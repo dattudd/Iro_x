@@ -1,4 +1,4 @@
-<h2 align="center">
+<h2 align="center"
     
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=WELCOME+TO+IRO+X+MUSIC)](https://github.com/shaeep043/Iro_X)
 
